@@ -12,4 +12,5 @@ function ExpenseItem(props) {
     </div>
   );
 }
+
 export default ExpenseItem;
